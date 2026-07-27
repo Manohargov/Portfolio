@@ -4,9 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name (set in params.yaml under hugoblox.branding.name)
-title: 'G. Manohar'
-# Website URL - replace with your GitHub Pages URL
-baseURL: 'https://manohargov.github.io/' # TODO: update this to your actual GitHub Pages URL
+title: ''
+# Website URL
+baseURL: 'https://example.com/'
 
 ############################
 ## LANGUAGE
