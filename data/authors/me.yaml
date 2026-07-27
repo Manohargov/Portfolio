@@ -2,115 +2,199 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
+  display: G. Manohar
+  given: Manohar
+  family: Govindaraju
+  alternate: ''
+  pronunciation: ''
   pronouns: he/him
 postnominals:
-  - PhD
-  - MIEEE
+  - BE
 status:
   icon: "☕️"
-role: Senior AI Research Scientist
+role: Program Manager - AI
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  Strategic Data Science leader with over 12 years of experience in AI/ML, fortified by 11 years of deep manufacturing expertise. 
+  Successfully led the full lifecycle of AI initiatives, from concept to implementation, delivering complex solutions 
+  that solve critical business challenges across automotive, oil & gas, and aerospace sectors.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: MSM
+    url: https://www.msm.com/
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:manoaad@gmail.com
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/Manohargov
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://www.linkedin.com/in/manog/
+
 
 interests:
-  - Large Language Models
+  - Agentic AI & LLMs
   - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - MLOps & LLMOps
+  - Predictive Analytics
+  - NLP & Multi-Modal Systems
+  - Autonomous Systems
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
-    summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+  - degree: Advanced Certification in Data Science & AI
+    institution: IIT Madras (Intellipaat)
+    start: 2022
+    end: 2023
+  - degree: Bachelor of Mechanical Engineering
+    institution: Satyabhama University
+    start: 2010
+    end: 2014
+  - degree: Diploma in Mechanical Engineering
+    institution: AVC Polytechnic College
+    start: 2000
+    end: 2003
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Program Manager - AI
+    org: MSM
+    start: 2025-03
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      Define and deliver global GenAI and Agentic AI roadmaps. Lead AI/ML programs with 95%+ on-time delivery. 
+      Direct cloud-native AI deployments on Azure with MLOps and LLM evaluation standards. 
+      Scale high-performing global teams and partner with C-suite to align AI strategy with business readiness.
+  - role: Senior Lead Engineer
+    org: Quest Global
+    start: 2013-10
+    end: 2025-01
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Led end-to-end AI initiatives across automotive, oil & gas, and aerospace sectors. 
+      Oversaw client relationships, business development, and P&L for AI/ML programs. 
+      Architected edge-to-cloud solutions with MLOps/LLMOps pipelines. 
+      Directed and mentored a team of 10 ML engineers managing cross-functional onshore/offshore development.
+  - role: Lead Engineer
+    org: Quest Global
+    start: 2011-11
+    end: 2013-09
+    summary: |
+      Monitored design changes and releases per customer deadlines. 
+      Initiated Six Sigma projects and automation solutions to improve processes and product quality. 
+      Provided technical training on design standards and engineering best practices.
+  - role: Product Design Engineer
+    org: Armstrong International
+    start: 2010-06
+    end: 2011-10
+    summary: |
+      Designed pump traps, valves, and hot water modules compliant with PED regulations. 
+      Developed piston control valves for steam applications and coordinated production deviations.
+  - role: Design Engineer (Projects R&D)
+    org: Shimi Design (Client L&T)
+    start: 2006-01
+    end: 2010-05
+    summary: |
+      Designed special products for domestic and international clients. 
+      Created 3D models in SolidWorks/AutoCAD, validated designs using FEA/CFD. 
+      Ensured compliance with IS, DIN, ASTM, BS standards.
+  - role: CAD Engineer
+    org: E-Core Engineers
+    start: 2004-07
+    end: 2005-12
+    summary: |
+      Converted 3D models into 2D machining drawings. 
+      Designed jigs and fixtures for Nyloc nut manufacturing.
+  - role: CNC Programmer / Supervisor
+    org: Swastika Industries
+    start: 2003-06
+    end: 2004-05
+    summary: |
+      Programmed CNC machines, selected tools, and designed jigs/fixtures for high-precision 
+      pneumatic and hydraulic components.
 
 skills:
-  - name: Technical Skills
+  - name: AI & ML
     items:
       - label: Python
         level: 5
-      - label: Machine Learning
+      - label: PyTorch / Keras
         level: 5
-      - label: Cloud Computing
+      - label: Scikit-learn
+        level: 5
+      - label: NLP & LLMs
+        level: 5
+      - label: Computer Vision (OpenCV)
         level: 4
-  - name: Research & Communication
+      - label: Agentic AI (LangChain, LangGraph)
+        level: 5
+  - name: MLOps & Cloud
     items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
+      - label: MLOps / LLMOps
         level: 4
-      - label: Grant Proposals
+      - label: Azure
         level: 4
+      - label: Docker / FastAPI
+        level: 4
+      - label: MLflow
+        level: 4
+      - label: Linux / Ubuntu
+        level: 4
+  - name: Tools & Methods
+    items:
+      - label: Power BI
+        level: 4
+      - label: Git
+        level: 4
+      - label: Six Sigma (DMAIC)
+        level: 4
+      - label: Automation
+        level: 4
+      - label: ROS2 / Autoware
+        level: 3
 
 languages:
   - name: English
     level: 5
+    label: Professional
+  - name: Tamil
+    level: 5
     label: Native
-  - name: Spanish
-    level: 4
-    label: Fluent
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+  - title: Best Performer
+    awarder: Caterpillar Inc.
+    date: "2016-10"
+    summary: Best Performer of the Year
+  - title: Best Performer
+    awarder: Caterpillar Inc.
+    date: "2015-02"
+  - title: Best Performer
+    awarder: Caterpillar Inc.
+    date: "2013-08"
+  - title: Best Performer
+    awarder: Caterpillar Inc.
+    date: "2012-09"
+  - title: Supplier Award of the Year
+    awarder: Caterpillar Inc.
+    date: "2015"
+  - title: Best Performer of the Year
+    awarder: Quest Global
+    date: "2017"
+  - title: On-the-Fly Award
+    awarder: Quest Global
+    date: ""
+    summary: Awarded twice
+  - title: Cost Savings Achievement
+    awarder: Caterpillar Inc.
+    date: "2018"
+    summary: Saved $2M through value addition core changes
+  - title: Autonomous Vehicle Systems Training
+    awarder: NITTTR Chennai
+    date: "2026-02"
+  - title: AI Agents Intensive Course
+    awarder: Google
+  - title: Gen AI Intensive Developer
+    awarder: Google
+  - title: Fundamentals of LLMs
+    awarder: HuggingFace
+  - title: Fine-Tuning of LLMs
+    awarder: HuggingFace
+  - title: Certified Recruiter Training
+    awarder: Quest Global

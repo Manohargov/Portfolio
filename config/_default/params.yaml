@@ -12,20 +12,15 @@ hugoblox:
   # Site-level branding (for people/profiles, use the author system in content/authors/)
   # ────────────────────────────────────────────────────────────────────────────
   identity:
-    # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "Your Name"
-    # Legal entity for copyright notices (defaults to name if not set)
+    name: "G. Manohar"
     organization: ""
-    # Schema.org type for structured data
-    type: person # person | organization | local_business
-    # Short tagline displayed on your site
-    tagline: ""
-    # Site meta description for search engines and social sharing
-    description: "The highly-customizable Hugo Academic theme powered by HugoBlox
-      Kit. Easily create your personal academic website."
-    # Social accounts (used for meta tags like Twitter Cards)
+    type: person
+    tagline: "Strategic AI/ML Leader | 12+ Years in Data Science & Manufacturing"
+    description: "Strategic Data Science leader with over 12 years of experience in 
+      AI/ML and manufacturing expertise. Specializing in Agentic AI, LLMs, Computer Vision, 
+      and MLOps across automotive, oil & gas, and aerospace sectors."
     social:
-      twitter: "GoOwnable" # Twitter/X handle for Twitter Cards (without @)
+      twitter: ""
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
@@ -127,8 +122,7 @@ hugoblox:
   # Search engine optimization - overrides and technical settings
   # ────────────────────────────────────────────────────────────────────────────
   seo:
-    # Browser tab title override (defaults to identity.name if not set)
-    title: ""
+    title: "G. Manohar - AI/ML Leader Portfolio"
     # For local_business identity type only
     location:
       address:
