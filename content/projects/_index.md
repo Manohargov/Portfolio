@@ -1,14 +1,14 @@
 ---
 title: 'Projects'
-date: 2024-05-19
+summary: 'Selected enterprise AI, GenAI, computer vision, and optimization initiatives.'
+date: 2026-07-27
 type: landing
 
-# Page sections
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: AI/ML projects I have delivered across automotive, oil & gas, and aerospace sectors.
+      title: 'Selected Projects'
+      text: 'AI/ML solutions delivered for complex business and engineering environments.'
       filters:
         folders:
           - projects
@@ -18,5 +18,5 @@ sections:
       columns: 3
       show_date: false
       show_read_time: false
-      show_read_more: false
+      show_read_more: true
 ---

@@ -1,21 +1,20 @@
 ---
-title: E-commerce Agentic AI
-date: 2025-01-15
+title: 'E-commerce Agentic AI'
+summary: 'A coordinated multi-agent workflow for customer needs, inventory clearance, and transit management.'
+weight: 10
 tags:
   - Agentic AI
   - LangChain
-  - RAG
+  - Multi-Agent Systems
   - GenAI
-links:
-  - type: site
-    url: https://github.com/Manohargov
 ---
 
-Multi-agent AI system for e-commerce using the LangChain framework. Features customer requirement agent, stock clearance agent, and transit management agent working in coordination.
+A LangChain-based multi-agent system designed to coordinate three business workflows across an e-commerce operation.
 
-<!--more-->
+## Core agents
 
-**Key Components:**
-- **Customer Req Agent** - Processes and understands customer needs via RAG-based querying
-- **Stock Clear Agent** - Manages inventory optimization and clearance recommendations
-- **Transit Management Agent** - Handles logistics coordination and delivery tracking
+- **Customer Requirements Agent** - interprets and structures customer needs.
+- **Stock Clearance Agent** - supports inventory optimization and clearance decisions.
+- **Transit Management Agent** - coordinates logistics and delivery activity.
+
+The architecture demonstrates how specialized agents can collaborate around a shared operational objective while keeping responsibilities clearly separated.

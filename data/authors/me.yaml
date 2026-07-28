@@ -1,6 +1,7 @@
 schema: hugoblox/author/v1
 slug: me
 is_owner: true
+
 name:
   display: G. Manohar
   given: Manohar
@@ -8,41 +9,43 @@ name:
   alternate: ''
   pronunciation: ''
   pronouns: he/him
+
 postnominals:
   - BE
-status:
-  icon: "☕️"
+
 role: Program Manager - AI
+
 bio: |
-  Strategic Data Science leader with over 12 years of experience in AI/ML, fortified by 11 years of deep manufacturing expertise. 
-  Successfully led the full lifecycle of AI initiatives, from concept to implementation, delivering complex solutions 
-  that solve critical business challenges across automotive, oil & gas, and aerospace sectors.
+  Strategic data science leader with more than 12 years of AI/ML experience, backed by 11 years of manufacturing engineering expertise. I lead the full lifecycle of enterprise AI initiatives - from opportunity discovery and roadmap design to platform delivery, governance, adoption, and measurable value realization - across automotive, oil & gas, and aerospace.
 
 affiliations:
   - name: MSM
-    url: https://www.msm.com/
 
 links:
   - icon: at-symbol
     url: mailto:manoaad@gmail.com
-    label: E-mail Me
-  - icon: brands/github
-    url: https://github.com/Manohargov
+    label: Email Manohar
+  - icon: phone
+    url: tel:+919894787975
+    label: Call Manohar
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/manog/
-
+    label: LinkedIn
+  - icon: brands/github
+    url: https://github.com/Manohargov
+    label: GitHub
 
 interests:
-  - Agentic AI & LLMs
+  - Agentic AI & Multi-Agent Systems
+  - Large Language Models & RAG
   - Computer Vision
   - MLOps & LLMOps
   - Predictive Analytics
-  - NLP & Multi-Modal Systems
   - Autonomous Systems
 
 education:
-  - degree: Advanced Certification in Data Science & AI
-    institution: IIT Madras (Intellipaat)
+  - degree: Advanced Certification in Data Science & Artificial Intelligence
+    institution: IIT Madras - Intellipaat
     start: 2022
     end: 2023
   - degree: Bachelor of Mechanical Engineering
@@ -59,95 +62,123 @@ experience:
     org: MSM
     start: 2025-03
     summary: |
-      Define and deliver global GenAI and Agentic AI roadmaps. Lead AI/ML programs with 95%+ on-time delivery. 
-      Direct cloud-native AI deployments on Azure with MLOps and LLM evaluation standards. 
-      Scale high-performing global teams and partner with C-suite to align AI strategy with business readiness.
+      - Defined and delivered global GenAI and Agentic AI roadmaps, translating RAG and multi-agent architectures into measurable ROI and board-level impact.
+      - Led global AI/ML programs with 95%+ on-time delivery, backed by governance, risk controls, and value-realization frameworks.
+      - Directed cloud-native AI deployments on Azure and established MLOps, LLM evaluation, and secure enterprise-integration standards.
+      - Scaled global teams, strengthened ownership, reduced delivery dependencies, and mentored senior leaders.
+      - Modernized enterprise data ecosystems with scalable pipelines and microservices for compliant, production-ready AI platforms.
+      - Supported growth through AI pre-sales, RFP leadership, strategic partnerships, responsible AI, executive engagement, and lifecycle governance.
+
   - role: Senior Lead Engineer
     org: Quest Global
     start: 2013-10
     end: 2025-01
     summary: |
-      Led end-to-end AI initiatives across automotive, oil & gas, and aerospace sectors. 
-      Oversaw client relationships, business development, and P&L for AI/ML programs. 
-      Architected edge-to-cloud solutions with MLOps/LLMOps pipelines. 
-      Directed and mentored a team of 10 ML engineers managing cross-functional onshore/offshore development.
+      - Led end-to-end AI initiatives across automotive, oil & gas, and aerospace, from requirements and proof of concept through deployment and operations.
+      - Oversaw client relationships, business development, and P&L for complex AI/ML programs.
+      - Developed and deployed predictive analytics, forecasting, computer-vision, and industrial edge AI solutions.
+      - Architected scalable edge-to-cloud platforms using MLOps and LLMOps for continuous delivery and reliable performance.
+      - Improved supply-chain and product-development workflows using Agile and Six Sigma DMAIC.
+      - Directed and mentored 10 ML engineers across cross-functional onshore and offshore delivery.
+
   - role: Lead Engineer
     org: Quest Global
     start: 2011-11
     end: 2013-09
     summary: |
-      Monitored design changes and releases per customer deadlines. 
-      Initiated Six Sigma projects and automation solutions to improve processes and product quality. 
-      Provided technical training on design standards and engineering best practices.
+      - Managed engineering changes, new releases, deadlines, and resource allocation for customer programs.
+      - Validated Caterpillar, Perkins, and MAK engine systems including fuel injection, cooling, lubrication, turbo-intercooler, and fluid lines.
+      - Led Six Sigma projects, automation, manufacturing feasibility studies, and CPI/NPI collaboration to improve cost, quality, and review cycle time.
+      - Delivered technical training and mentoring on design standards and engineering best practices.
+
   - role: Product Design Engineer
     org: Armstrong International
     start: 2010-06
     end: 2011-10
     summary: |
-      Designed pump traps, valves, and hot water modules compliant with PED regulations. 
-      Developed piston control valves for steam applications and coordinated production deviations.
-  - role: Design Engineer (Projects R&D)
-    org: Shimi Design (Client L&T)
+      - Designed pump traps, valves, and hot-water modules for European clients in compliance with PED requirements.
+      - Developed piston control valves for steam applications and supported localization and vendor development for cast and machined components.
+      - Coordinated production, process, and supplier deviations; prepared technical presentations, product catalogues, and animations.
+      - Conducted hydro, thermal, and structural testing to IBR/ASME standards and prepared approval documentation.
+
+  - role: Design Engineer - Projects R&D
+    org: Shimi Design - Client L&T
     start: 2006-01
     end: 2010-05
     summary: |
-      Designed special products for domestic and international clients. 
-      Created 3D models in SolidWorks/AutoCAD, validated designs using FEA/CFD. 
-      Ensured compliance with IS, DIN, ASTM, BS standards.
+      - Designed special products and subsystems including welded structures, shafts, springs, gears, belt drives, and bearings.
+      - Created SolidWorks and AutoCAD models and assemblies, validated designs with FEA/CFD, and applied IS, DIN, ASTM, and BS standards.
+      - Produced fabrication and machining drawings and hydraulic/pneumatic schematics, and supported customer and production reviews.
+
   - role: CAD Engineer
     org: E-Core Engineers
     start: 2004-07
     end: 2005-12
     summary: |
-      Converted 3D models into 2D machining drawings. 
-      Designed jigs and fixtures for Nyloc nut manufacturing.
+      - Converted 3D models into 2D machining drawings, including reverse-engineered fixture components.
+      - Designed jigs, fixtures, and seal-assembly systems for Nyloc nut manufacturing.
+      - Coordinated fabrication vendors, production-line implementation, and pilot runs for consistent quality.
+
   - role: CNC Programmer / Supervisor
     org: Swastika Industries
     start: 2003-06
     end: 2004-05
     summary: |
-      Programmed CNC machines, selected tools, and designed jigs/fixtures for high-precision 
-      pneumatic and hydraulic components.
+      - Programmed CNC machines, selected tooling, and designed jigs and fixtures for high-precision pneumatic and hydraulic components.
+      - Implemented process improvements including automatic bar feeding to reduce machining time and improve delivery.
+      - Coordinated across ISO 9001 audits, material handling, quality, production, and customer requirements.
 
 skills:
-  - name: AI & ML
+  - name: AI & Machine Learning
     items:
       - label: Python
         level: 5
-      - label: PyTorch / Keras
+      - label: PyTorch & Keras
         level: 5
       - label: Scikit-learn
         level: 5
-      - label: NLP & LLMs
+      - label: NLP, LLMs & RAG
         level: 5
-      - label: Computer Vision (OpenCV)
+      - label: Computer Vision & OpenCV
+        level: 5
+      - label: LangChain & LangGraph
+        level: 5
+      - label: Statistics & Time Series
         level: 4
-      - label: Agentic AI (LangChain, LangGraph)
-        level: 5
-  - name: MLOps & Cloud
+
+  - name: MLOps, Cloud & Platforms
     items:
-      - label: MLOps / LLMOps
-        level: 4
+      - label: MLOps & LLMOps
+        level: 5
       - label: Azure
-        level: 4
-      - label: Docker / FastAPI
         level: 4
       - label: MLflow
         level: 4
-      - label: Linux / Ubuntu
+      - label: FastAPI & Docker
         level: 4
-  - name: Tools & Methods
-    items:
-      - label: Power BI
+      - label: ChromaDB & FAISS
+        level: 4
+      - label: Linux & Ubuntu
         level: 4
       - label: Git
         level: 4
-      - label: Six Sigma (DMAIC)
-        level: 4
+
+  - name: Engineering & Delivery
+    items:
+      - label: AI Program Governance
+        level: 5
+      - label: Agile & Six Sigma DMAIC
+        level: 5
       - label: Automation
         level: 4
-      - label: ROS2 / Autoware
+      - label: Power BI
+        level: 4
+      - label: CAD, FEA & CFD
+        level: 4
+      - label: ROS2 & Autoware
         level: 3
+      - label: Paper Replication
+        level: 4
 
 languages:
   - name: English
@@ -158,43 +189,20 @@ languages:
     label: Native
 
 awards:
-  - title: Best Performer
+  - title: '$2M Cost-Savings Achievement'
     awarder: Caterpillar Inc.
-    date: "2016-10"
-    summary: Best Performer of the Year
-  - title: Best Performer
-    awarder: Caterpillar Inc.
-    date: "2015-02"
-  - title: Best Performer
-    awarder: Caterpillar Inc.
-    date: "2013-08"
-  - title: Best Performer
-    awarder: Caterpillar Inc.
-    date: "2012-09"
-  - title: Supplier Award of the Year
-    awarder: Caterpillar Inc.
-    date: "2015"
-  - title: Best Performer of the Year
+    date: '2017-2018'
+    summary: Delivered documented savings through value-addition core changes.
+  - title: 'Best Performer of the Year'
     awarder: Quest Global
-    date: "2017"
-  - title: On-the-Fly Award
-    awarder: Quest Global
-    date: ""
-    summary: Awarded twice
-  - title: Cost Savings Achievement
+    date: '2016-2017'
+  - title: 'Best Performer'
     awarder: Caterpillar Inc.
-    date: "2018"
-    summary: Saved $2M through value addition core changes
-  - title: Autonomous Vehicle Systems Training
-    awarder: NITTTR Chennai
-    date: "2026-02"
-  - title: AI Agents Intensive Course
-    awarder: Google
-  - title: Gen AI Intensive Developer
-    awarder: Google
-  - title: Fundamentals of LLMs
-    awarder: HuggingFace
-  - title: Fine-Tuning of LLMs
-    awarder: HuggingFace
-  - title: Certified Recruiter Training
+    date: '2012-2016'
+    summary: Recognized in September 2012, August 2013, February 2015, and October 2016.
+  - title: 'Supplier Award of the Year'
+    awarder: Caterpillar Inc.
+    date: '2015'
+  - title: 'On-the-Fly Award'
     awarder: Quest Global
+    date: 'Two-time recognition'

@@ -1,15 +1,16 @@
 ---
-title: CPPD - Continuous Product & Process Development
-date: 2023-04-01
+title: 'CPPD - Continuous Product & Process Development'
+summary: 'A multi-module application integrating ML capabilities across product and process workflows.'
+weight: 60
 tags:
-  - ML
-  - Multi-Modal
+  - Machine Learning
   - Automation
   - Manufacturing
+  - MLOps
 ---
 
-Architected a multi-module application integrating ML-driven capabilities across core functionalities including predictive maintenance, quality inspection, and process optimization.
+CPPD is a multi-module application architecture that brings ML-driven capabilities into core product and process-development workflows.
 
-<!--more-->
+The design emphasizes reusable services, production delivery, and integration across multiple functional areas rather than a single isolated model.
 
-**Tech Stack:** Python, Scikit-learn, Docker, Azure, MLflow
+**Technical focus:** Python, scikit-learn, Azure, Docker, MLflow, automation, and modular application design.

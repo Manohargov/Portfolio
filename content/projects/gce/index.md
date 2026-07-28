@@ -1,6 +1,7 @@
 ---
-title: GCE - Geometric Cost Estimation
-date: 2023-11-01
+title: 'GCE - Geometric Cost Estimation'
+summary: 'YOLO-based feature detection for automated manufacturing process cost estimation.'
+weight: 40
 tags:
   - Computer Vision
   - YOLO
@@ -8,8 +9,8 @@ tags:
   - Cost Estimation
 ---
 
-YOLO-based object detection application for automated process cost estimation. Visually identifies manufacturing features and estimates production costs in real-time.
+GCE applies YOLO-based object detection to identify geometric manufacturing features and support automated process cost estimation.
 
-<!--more-->
+The project connects visual feature recognition with a practical engineering decision: estimating the cost implications of the manufacturing work visible in a component.
 
-**Tech Stack:** YOLO, OpenCV, Python, Flask
+**Technical focus:** YOLO, OpenCV, Python, object detection, and engineering cost logic.

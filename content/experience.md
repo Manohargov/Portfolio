@@ -1,33 +1,47 @@
 ---
 title: 'Experience'
-date: 2023-10-24
+summary: 'Career history, education, skills, professional recognition, and continuing AI training.'
+date: 2026-07-27
 type: landing
 
 design:
   spacing: '5rem'
 
-# Note: `username` refers to the user's folder name in `content/authors/`
-
-# Page sections
 sections:
   - block: resume-experience
     content:
       username: me
     design:
-      # Hugo date format
       date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: true
+      is_education_first: false
+
   - block: resume-skills
     content:
-      title: Skills & Hobbies
+      title: 'AI, Data & Engineering Skills'
       username: me
+
   - block: resume-awards
     content:
-      title: Awards
+      title: 'Selected Recognition'
       username: me
+    design:
+      date_format: '2006'
+
+  - block: markdown
+    content:
+      title: 'Training & Continuous Learning'
+      text: |-
+        - **Autonomous Vehicle Systems Training** - NITTTR Chennai, February 2026
+        - **AI Agents Intensive Course** - Google
+        - **Gen AI Intensive Developer** - Google
+        - **Fundamentals of LLMs** - The LLM Course by Hugging Face
+        - **Fine-Tuning of LLMs** - Hugging Face
+        - **Certified Recruiter Training** - Quest Global
+    design:
+      columns: '1'
+
   - block: resume-languages
     content:
-      title: Languages
+      title: 'Languages'
       username: me
 ---

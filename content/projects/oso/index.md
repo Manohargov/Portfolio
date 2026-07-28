@@ -1,15 +1,14 @@
 ---
-title: OSO - Optimized Service Offering
-date: 2023-08-01
+title: 'OSO - Optimized Service Offering'
+summary: 'ML-driven optimization of supply-chain cost, delivery timelines, inventory, and storage.'
+weight: 50
 tags:
-  - ML
+  - Machine Learning
   - Supply Chain
   - Optimization
   - Predictive Analytics
 ---
 
-ML-driven optimization of supply chain costs, delivery timelines, and inventory storage efficiency. Reduced operational expenses through predictive analytics and intelligent resource allocation.
+OSO uses machine learning to improve service-offering decisions across supply-chain cost, delivery timelines, inventory levels, and storage efficiency.
 
-<!--more-->
-
-**Impact:** Optimized supply chain operations with measurable cost savings and improved delivery performance.
+The project is centered on turning operational data into practical recommendations for more efficient planning and resource allocation.

@@ -1,7 +1,7 @@
 ---
 title: ''
-summary: ''
-date: 2022-10-24
+summary: 'G. Manohar - Strategic AI/ML leader specializing in Agentic AI, GenAI, computer vision, and enterprise AI delivery.'
+date: 2026-07-27
 type: landing
 
 sections:
@@ -13,80 +13,76 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
       headings:
-        about: ''
-        education: ''
-        interests: ''
+        about: Profile
+        education: Education
+        interests: Focus Areas
     design:
       background:
         gradient_mesh:
           enable: true
       name:
-        size: md
-      avatar:
-        size: medium
-        shape: circle
+        size: lg
+      show_status: false
+
   - block: markdown
+    id: impact
     content:
-      title: 'About Me'
-      subtitle: ''
+      title: 'AI strategy that reaches production'
+      subtitle: 'From board-level roadmap to measurable business value'
       text: |-
-        Strategic Data Science leader with over **12 years of experience in AI/ML**, fortified by 11 years of deep manufacturing expertise. I have successfully led the full lifecycle of AI initiatives — from concept to implementation — delivering complex solutions that solve critical business challenges across **automotive, oil & gas, and aerospace** sectors.
+        I lead the full AI lifecycle: identifying high-value opportunities, shaping responsible roadmaps, building strong teams, and operationalizing secure AI platforms.
 
-        I specialize in **Agentic AI, Large Language Models, Computer Vision, and MLOps**, with a proven track record of driving measurable ROI through RAG-based systems, multi-agent architectures, and scalable cloud-native AI platforms on Azure.
+        My work combines **Agentic AI and RAG**, **computer vision and predictive analytics**, and **MLOps/LLMOps** with deep knowledge of complex engineering environments.
 
-        Currently leading global AI programs at **MSM** as Program Manager - AI, defining GenAI and Agentic AI roadmaps, scaling high-performing teams, and partnering with C-suite to align AI strategy with enterprise-wide adoption.
+        - **95%+ on-time delivery** across global AI/ML programs
+        - **$2M in documented savings** through manufacturing value engineering
+        - **10-person ML engineering team** directed across onshore and offshore delivery
+        - Delivery experience across **automotive, oil & gas, and aerospace**
     design:
       columns: '1'
-  - block: collection
-    id: papers
+
+  - block: resume-skills
+    id: skills
     content:
-      title: Featured Publications
+      title: 'Technical Leadership & Delivery Toolkit'
+      username: me
+
+  - block: collection
+    id: projects
+    content:
+      title: 'Selected AI Projects'
+      text: 'Enterprise AI systems built around concrete operational and engineering outcomes.'
       filters:
         folders:
-          - publications
-        featured_only: true
+          - projects
+      count: 6
     design:
       view: article-grid
-      columns: 2
-  - block: collection
+      fill_image: false
+      columns: 3
+      show_date: false
+      show_read_time: false
+      show_read_more: true
+
+  - block: markdown
+    id: leadership
     content:
-      title: Recent Publications
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
+      title: 'Leadership across AI and engineering'
+      subtitle: 'A career spanning product design, industrial systems, data science, and global AI programs'
+      text: |-
+        I bring both technical depth and operating discipline to AI transformation. My background includes hands-on engineering, Six Sigma and automation, cross-functional delivery, client leadership, P&L ownership, pre-sales, governance, and C-suite engagement.
+
+        [View experience →](experience/) &nbsp;&nbsp; [Explore projects →](projects/)
     design:
-      view: citation
-  - block: collection
-    id: talks
+      columns: '1'
+
+  - block: markdown
+    id: contact
     content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - events
+      title: 'Let’s discuss an AI challenge'
+      subtitle: 'Based in Bangalore and open to conversations about enterprise AI strategy, delivery, and technical leadership.'
+      text: |-
+        [Email me](mailto:manoaad@gmail.com) · [LinkedIn](https://www.linkedin.com/in/manog/) · [GitHub](https://github.com/Manohargov)
     design:
-      view: card
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      page_type: blog
-      count: 10
-      filters:
-        author: ''
-        category: ''
-        tag: ''
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ''
-      offset: 0
-      order: desc
-    design:
-      view: card
-      spacing:
-        padding: [0, 0, 0, 0]
+      columns: '1'
 ---

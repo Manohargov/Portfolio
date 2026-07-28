@@ -1,15 +1,20 @@
 ---
-title: PPRS - Parts Proliferation Reduction System
-date: 2024-06-01
+title: 'PPRS - Parts Proliferation Reduction System'
+summary: 'A GenAI system that helps prevent unnecessary new-part creation and supports manufacturing cost reduction.'
+weight: 20
 tags:
   - GenAI
   - LLM
   - RAG
-  - Cost Reduction
+  - Manufacturing
 ---
 
-GenAI-powered system for cost reduction through intelligent prevention of unnecessary new part creation. Leverages LLMs and semantic search to identify existing parts that can fulfill new requirements.
+PPRS uses GenAI and intelligent retrieval to identify relevant existing parts before a new part is created.
 
-<!--more-->
+## Business objective
 
-**Impact:** Significantly reduced manufacturing costs by preventing duplicate part creation across the enterprise.
+Reduce avoidable part proliferation, duplicated engineering effort, and downstream manufacturing cost by giving teams a faster way to compare new requirements with the existing parts landscape.
+
+## Technical focus
+
+RAG-based retrieval, semantic similarity, LLM-assisted comparison, and enterprise engineering data.

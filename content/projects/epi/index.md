@@ -1,6 +1,7 @@
 ---
-title: EPI - Engine Parts Identifier
-date: 2024-03-01
+title: 'EPI - Engine Parts Identifier'
+summary: 'Computer vision for engine-component identification using a fine-tuned EfficientNet model.'
+weight: 30
 tags:
   - Computer Vision
   - EfficientNet
@@ -8,8 +9,8 @@ tags:
   - PyTorch
 ---
 
-Engine component identification application powered by a fine-tuned EfficientNet model. Enables real-time recognition of engine parts from images for inventory and quality assurance.
+EPI is an engine-component identification application powered by a fine-tuned EfficientNet model.
 
-<!--more-->
+The solution applies image classification to recognize engine parts and support faster, more consistent identification in industrial workflows.
 
-**Tech Stack:** PyTorch, EfficientNet, OpenCV, FastAPI
+**Technical focus:** PyTorch, EfficientNet, OpenCV, model fine-tuning, and inference services.

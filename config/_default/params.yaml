@@ -15,10 +15,8 @@ hugoblox:
     name: "G. Manohar"
     organization: ""
     type: person
-    tagline: "Strategic AI/ML Leader | 12+ Years in Data Science & Manufacturing"
-    description: "Strategic Data Science leader with over 12 years of experience in 
-      AI/ML and manufacturing expertise. Specializing in Agentic AI, LLMs, Computer Vision, 
-      and MLOps across automotive, oil & gas, and aerospace sectors."
+    tagline: "Strategic AI/ML Leader | Agentic AI | Enterprise Delivery"
+    description: "Portfolio of G. Manohar, a strategic data science leader with 12+ years in AI/ML and 11 years of manufacturing engineering experience across automotive, oil & gas, and aerospace."
     social:
       twitter: ""
 
@@ -30,7 +28,7 @@ hugoblox:
     # Mode: 'light', 'dark', or 'system' (follows OS preference)
     mode: system
     # Theme pack: name from data/themes/ or { light: "x", dark: "y" } for mix-and-match
-    pack: "default"
+    pack: "minimal"
     # Optional: Override theme pack colors
     colors:
       primary: "" # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
@@ -56,7 +54,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   typography:
     # Theme pack: name from data/fonts/
-    pack: "academic"
+    pack: "modern"
 
   # ────────────────────────────────────────────────────────────────────────────
   # LAYOUT
@@ -64,7 +62,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   layout:
     # Border radius: 'none', 'sm', 'md', 'lg', or 'full'
-    radius: "md"
+    radius: "lg"
     # Spacing density: 'compact', 'comfortable', or 'spacious'
     spacing: "spacious"
     # Avatar shape in author profiles
@@ -81,12 +79,12 @@ hugoblox:
     # Stick to top on scroll
     sticky: true
     # Menu alignment
-    align: center # left | center | right
+    align: right # left | center | right
     # Feature toggles
-    search: true
+    search: false
     theme_toggle: true
-    theme_picker: true
-    language_switcher: true
+    theme_picker: false
+    language_switcher: false
     # Call-to-action button
     cta:
       enable: false
@@ -100,7 +98,7 @@ hugoblox:
   footer:
     # Footer style variant
     style: minimal # minimal | columns | centered
-    language_switcher: true
+    language_switcher: false
     # Custom footer text (HTML supported)
     text: ""
 
@@ -110,9 +108,9 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   copyright:
     # Copyright notice - supports {year}, {name}, {license} placeholders
-    notice: "© {year} {name}. This work is licensed under {license}"
+    notice: "© {year} {name}. All rights reserved."
     license:
-      type: cc # cc | custom
+      type: custom # cc | custom
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -122,7 +120,7 @@ hugoblox:
   # Search engine optimization - overrides and technical settings
   # ────────────────────────────────────────────────────────────────────────────
   seo:
-    title: "G. Manohar - AI/ML Leader Portfolio"
+    title: "G. Manohar - Strategic AI/ML Leader"
     # For local_business identity type only
     location:
       address:
@@ -166,7 +164,7 @@ hugoblox:
   # Site search
   # ────────────────────────────────────────────────────────────────────────────
   search:
-    enable: true
+    enable: false
     # Trending/suggested search terms
     suggestions: []
     # Quick action shortcuts in search modal

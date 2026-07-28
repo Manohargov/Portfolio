@@ -95,6 +95,9 @@ jobs:
           exit 1
         fi
 
+    - name: Prepare Tailwind CSS CLI
+      run: node scripts/link-tailwind.mjs
+
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v3
       with:
