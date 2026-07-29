@@ -1,20 +1,23 @@
 ---
-title: 'E-commerce Agentic AI'
-summary: 'A coordinated multi-agent workflow for customer needs, inventory clearance, and transit management.'
+title: 'E-commerce Agentic AI Platform'
+summary: 'An event-driven multi-agent platform for customer intent, stock clearance, and transit management.'
 weight: 10
 tags:
   - Agentic AI
-  - LangChain
   - Multi-Agent Systems
   - GenAI
+  - Microservices
+  - LLM
 ---
 
-A LangChain-based multi-agent system designed to coordinate three business workflows across an e-commerce operation.
+An event-driven multi-agent system designed to coordinate sales, inventory, and logistics workflows across an e-commerce operation.
 
 ## Core agents
 
-- **Customer Requirements Agent** - interprets and structures customer needs.
-- **Stock Clearance Agent** - supports inventory optimization and clearance decisions.
-- **Transit Management Agent** - coordinates logistics and delivery activity.
+- **Customer Requirements Agent** - captures and structures customer intent.
+- **Stock Clearance Agent** - develops inventory-clearance strategies.
+- **Transit Management Agent** - manages shipment routing and delivery exceptions.
 
-The architecture demonstrates how specialized agents can collaborate around a shared operational objective while keeping responsibilities clearly separated.
+Three specialized LLM-driven agents collaborate over an event-driven microservices architecture, reducing manual coordination while keeping each operational responsibility clearly separated.
+
+**Technical focus:** Python, Ollama, DeepSeek-R1 14B, Sentence Transformers, all-MiniLM-L6-v2, GitHub Actions, and Pytest.

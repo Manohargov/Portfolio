@@ -15,8 +15,8 @@ hugoblox:
     name: "G. Manohar"
     organization: ""
     type: person
-    tagline: "Strategic AI/ML Leader | Agentic AI | Enterprise Delivery"
-    description: "Portfolio of G. Manohar, a strategic data science leader with 12+ years in AI/ML and 11 years of manufacturing engineering experience across automotive, oil & gas, and aerospace."
+    tagline: "AI Innovation | Consulting | Pre-sales | Enterprise Delivery"
+    description: "Portfolio of G. Manohar, an AI innovation, consulting, and program-delivery leader with 23+ years across AI/ML, advanced analytics, and manufacturing engineering."
     social:
       twitter: ""
 
@@ -120,7 +120,7 @@ hugoblox:
   # Search engine optimization - overrides and technical settings
   # ────────────────────────────────────────────────────────────────────────────
   seo:
-    title: "G. Manohar - Strategic AI/ML Leader"
+    title: "G. Manohar - AI Innovation & Consulting Leader"
     # For local_business identity type only
     location:
       address:

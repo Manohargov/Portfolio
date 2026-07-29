@@ -1,7 +1,7 @@
 ---
 title: 'Experience'
-summary: 'Career history, education, skills, professional recognition, and continuing AI training.'
-date: 2026-07-27
+summary: 'Career history across AI innovation, consulting, pre-sales, program delivery, engineering, professional recognition, and continuing AI training.'
+date: 2026-07-29
 type: landing
 
 design:
@@ -31,9 +31,9 @@ sections:
     content:
       title: 'Training & Continuous Learning'
       text: |-
-        - **Autonomous Vehicle Systems Training** - NITTTR Chennai, February 2026
+        - **Autonomous Vehicle Systems Training** - NITTTR Chennai, February 2026 (five days)
         - **AI Agents Intensive Course** - Google
-        - **Gen AI Intensive Developer** - Google
+        - **GenAI Intensive Developer** - Google
         - **Fundamentals of LLMs** - The LLM Course by Hugging Face
         - **Fine-Tuning of LLMs** - Hugging Face
         - **Certified Recruiter Training** - Quest Global

@@ -1,14 +1,14 @@
 ---
 title: 'Projects'
-summary: 'Selected enterprise AI, GenAI, computer vision, and optimization initiatives.'
-date: 2026-07-27
+summary: 'Selected Agentic AI, GenAI, engineering automation, computer vision, analytics, and optimization initiatives.'
+date: 2026-07-29
 type: landing
 
 sections:
   - block: collection
     content:
       title: 'Selected Projects'
-      text: 'AI/ML solutions delivered for complex business and engineering environments.'
+      text: 'AI products and consulting solutions delivered for complex business and engineering environments.'
       filters:
         folders:
           - projects

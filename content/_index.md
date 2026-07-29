@@ -1,7 +1,7 @@
 ---
 title: ''
-summary: 'G. Manohar - Strategic AI/ML leader specializing in Agentic AI, GenAI, computer vision, and enterprise AI delivery.'
-date: 2026-07-27
+summary: 'G. Manohar - AI innovation, consulting, and program-delivery leader specializing in Agentic AI, pre-sales, Responsible AI, and enterprise transformation.'
+date: 2026-07-29
 type: landing
 
 sections:
@@ -27,17 +27,18 @@ sections:
   - block: markdown
     id: impact
     content:
-      title: 'AI strategy that reaches production'
-      subtitle: 'From board-level roadmap to measurable business value'
+      title: 'AI innovation that reaches production'
+      subtitle: 'From client discovery and pre-sales strategy to measurable enterprise value'
       text: |-
-        I lead the full AI lifecycle: identifying high-value opportunities, shaping responsible roadmaps, building strong teams, and operationalizing secure AI platforms.
+        I lead the full AI lifecycle: discovering high-value opportunities, shaping solutions and proposals, building strong delivery teams, and operationalizing secure AI platforms.
 
-        My work combines **Agentic AI and RAG**, **computer vision and predictive analytics**, and **MLOps/LLMOps** with deep knowledge of complex engineering environments.
+        My work combines **Agentic AI and RAG**, **computer vision and predictive analytics**, and **MLOps/LLMOps** with Responsible AI governance and deep knowledge of complex engineering environments.
 
-        - **95%+ on-time delivery** across global AI/ML programs
+        - **23+ years** across AI/ML, advanced analytics, and manufacturing engineering
+        - **$4M in new business revenue** generated through cross-division product adoption
         - **$2M in documented savings** through manufacturing value engineering
         - **10-person ML engineering team** directed across onshore and offshore delivery
-        - Delivery experience across **automotive, oil & gas, and aerospace**
+        - Delivery experience across **automotive, oil & gas, aerospace, medical, and robotics**
     design:
       columns: '1'
 
@@ -55,7 +56,7 @@ sections:
       filters:
         folders:
           - projects
-      count: 6
+      count: 9
     design:
       view: article-grid
       fill_image: false
@@ -67,10 +68,10 @@ sections:
   - block: markdown
     id: leadership
     content:
-      title: 'Leadership across AI and engineering'
-      subtitle: 'A career spanning product design, industrial systems, data science, and global AI programs'
+      title: 'Leadership across innovation, consulting, and engineering'
+      subtitle: 'A career spanning product design, industrial systems, AI strategy, pre-sales, and enterprise delivery'
       text: |-
-        I bring both technical depth and operating discipline to AI transformation. My background includes hands-on engineering, Six Sigma and automation, cross-functional delivery, client leadership, P&L ownership, pre-sales, governance, and C-suite engagement.
+        I bring technical depth, consulting discipline, and operating leadership to AI transformation. My background includes hands-on engineering, Six Sigma and automation, client discovery, solution consulting, RFP/RFI leadership, P&L ownership, governance, and executive engagement.
 
         [View experience →](experience/) &nbsp;&nbsp; [Explore projects →](projects/)
     design:

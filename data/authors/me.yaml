@@ -16,7 +16,7 @@ postnominals:
 role: Program Manager - AI
 
 bio: |
-  Strategic data science leader with more than 12 years of AI/ML experience, backed by 11 years of manufacturing engineering expertise. I lead the full lifecycle of enterprise AI initiatives - from opportunity discovery and roadmap design to platform delivery, governance, adoption, and measurable value realization - across automotive, oil & gas, and aerospace.
+  AI innovation, consulting, and program-delivery leader with 23+ years across AI/ML, advanced analytics, and manufacturing engineering. I lead enterprise AI strategy, pre-sales, Agentic AI delivery, governance, and adoption across automotive, oil & gas, aerospace, medical, and robotics industries.
 
 affiliations:
   - name: MSM
@@ -38,10 +38,12 @@ links:
 interests:
   - Agentic AI & Multi-Agent Systems
   - Large Language Models & RAG
+  - Responsible AI & Governance
+  - AI Strategy & Transformation
   - Computer Vision
   - MLOps & LLMOps
-  - Predictive Analytics
-  - Autonomous Systems
+  - Product Innovation & Pre-sales
+  - Autonomous Systems & Robotics
 
 education:
   - degree: Advanced Certification in Data Science & Artificial Intelligence
@@ -60,24 +62,26 @@ education:
 experience:
   - role: Program Manager - AI
     org: MSM
-    start: 2025-03
+    start: 2025-02
     summary: |
-      - Defined and delivered global GenAI and Agentic AI roadmaps, translating RAG and multi-agent architectures into measurable ROI and board-level impact.
-      - Led global AI/ML programs with 95%+ on-time delivery, backed by governance, risk controls, and value-realization frameworks.
-      - Directed cloud-native AI deployments on Azure and established MLOps, LLM evaluation, and secure enterprise-integration standards.
-      - Scaled global teams, strengthened ownership, reduced delivery dependencies, and mentored senior leaders.
-      - Modernized enterprise data ecosystems with scalable pipelines and microservices for compliant, production-ready AI platforms.
-      - Supported growth through AI pre-sales, RFP leadership, strategic partnerships, responsible AI, executive engagement, and lifecycle governance.
+      - Manage end-to-end AI pre-sales: client discovery, requirement analysis, solution consulting, proposals, RFP/RFI responses, proof-of-concept planning, effort estimation, and business value mapping.
+      - Lead Agentic AI programs across business domains, managing scope, timelines, budgets, risks, and scalable Agile/SAFe delivery.
+      - Orchestrate AI agents, copilots, and autonomous workflow platforms with architects, data scientists, and platform teams, defining human-agent collaboration and escalation models.
+      - Embed Responsible AI, explainability, governance, and compliance throughout agent deployment and optimization.
+      - Translate business requirements into AI roadmaps, executive reporting, value-realization metrics, change management, and adoption.
+      - Establish enterprise AI governance across data privacy, security, model lifecycle management, and alignment with enterprise architecture.
+      - Build reusable delivery accelerators and AI operational playbooks, defining KPIs and continuous-improvement feedback loops.
 
   - role: Senior Lead Engineer
     org: Quest Global
-    start: 2013-10
+    start: 2013-11
     end: 2025-01
     summary: |
-      - Led end-to-end AI initiatives across automotive, oil & gas, and aerospace, from requirements and proof of concept through deployment and operations.
-      - Oversaw client relationships, business development, and P&L for complex AI/ML programs.
+      - Led end-to-end AI initiatives across automotive, oil & gas, aerospace, medical, and robotics, delivering measurable business outcomes.
+      - Oversaw client relationships, business development, and P&L for complex AI/ML programs, balancing profitability and stakeholder satisfaction.
+      - Directed the full AI solution lifecycle from requirements and proof of concept through deployment and operational success.
       - Developed and deployed predictive analytics, forecasting, computer-vision, and industrial edge AI solutions.
-      - Architected scalable edge-to-cloud platforms using MLOps and LLMOps for continuous delivery and reliable performance.
+      - Architected scalable edge-to-cloud platforms using MLOps and LLMOps for continuous delivery and robust performance.
       - Improved supply-chain and product-development workflows using Agile and Six Sigma DMAIC.
       - Directed and mentored 10 ML engineers across cross-functional onshore and offshore delivery.
 
@@ -102,7 +106,7 @@ experience:
       - Conducted hydro, thermal, and structural testing to IBR/ASME standards and prepared approval documentation.
 
   - role: Design Engineer - Projects R&D
-    org: Shimi Design - Client L&T
+    org: Larsen & Toubro - HED
     start: 2006-01
     end: 2010-05
     summary: |
@@ -129,6 +133,23 @@ experience:
       - Coordinated across ISO 9001 audits, material handling, quality, production, and customer requirements.
 
 skills:
+  - name: Strategy, Consulting & Leadership
+    items:
+      - label: AI Strategy & Transformation
+        level: 5
+      - label: Innovation & Product Strategy
+        level: 5
+      - label: Pre-sales & Solution Consulting
+        level: 5
+      - label: Program & Delivery Leadership
+        level: 5
+      - label: Responsible AI & Governance
+        level: 5
+      - label: Change Management
+        level: 5
+      - label: Agile, SAFe & Six Sigma
+        level: 5
+
   - name: AI & Machine Learning
     items:
       - label: Python
@@ -144,6 +165,8 @@ skills:
       - label: LangChain & LangGraph
         level: 5
       - label: Statistics & Time Series
+        level: 4
+      - label: Model Fine-Tuning
         level: 4
 
   - name: MLOps, Cloud & Platforms
@@ -162,16 +185,12 @@ skills:
         level: 4
       - label: Git
         level: 4
+      - label: Power BI
+        level: 4
 
   - name: Engineering & Delivery
     items:
-      - label: AI Program Governance
-        level: 5
-      - label: Agile & Six Sigma DMAIC
-        level: 5
       - label: Automation
-        level: 4
-      - label: Power BI
         level: 4
       - label: CAD, FEA & CFD
         level: 4
@@ -189,6 +208,9 @@ languages:
     label: Native
 
 awards:
+  - title: '$4M New Business Revenue'
+    awarder: Quest Global
+    summary: Marketed an AI product across peer divisions, driving adoption and generating $4M in new business revenue.
   - title: '$2M Cost-Savings Achievement'
     awarder: Caterpillar Inc.
     date: '2017-2018'
